@@ -1,16 +1,12 @@
-/*@font-face {
-	font-family: 'Lucida Grande';
-	src: url(https://dl.dropboxusercontent.com/s/5zfrton1z3mqkyl/LucidaGrande.ttf);
-}*/
 @font-face {
 	font-family: 'Lucida Grande';
-	src: url(https://rawcdn.githack.com/Half-Bl00d/tokyo-revengers-haze/3dbdb3c8e2ef0df62180d5ad37ac8f0260c8ffab/LucidaGrande.ttf?raw=true);
+	src: url(https://rawcdn.githack.com/Half-Bl00d/tokyo-revengers-haze/3dbdb3c8e2ef0df62180d5ad37ac8f0260c8ffab/LucidaGrande.ttf);
 }
 @font-face {
 	font-family: 'Tahoma';
-	src: url(https://dl.dropboxusercontent.com/s/luf3fs9zjmxgqud/tahoma.ttf);
+	src: url(https://rawcdn.githack.com/Half-Bl00d/tokyo-revengers-haze/59f26d33b842471ea6375c288f04fe03f223de1e/tahoma.ttf);
 }
 @font-face {
 	font-family: 'Verdana';
-	src: url(https://dl.dropboxusercontent.com/s/vlkoruda6jpsiuw/verdana.ttf);
+	src: url(https://rawcdn.githack.com/Half-Bl00d/tokyo-revengers-haze/59f26d33b842471ea6375c288f04fe03f223de1e/verdana.ttf);
 }
