@@ -1,6 +1,10 @@
-@font-face {
+/*@font-face {
 	font-family: 'Lucida Grande';
 	src: url(https://dl.dropboxusercontent.com/s/5zfrton1z3mqkyl/LucidaGrande.ttf);
+}*/
+@font-face {
+	font-family: 'Lucida Grande';
+	src: url(https://rawcdn.githack.com/Half-Bl00d/tokyo-revengers-haze/3dbdb3c8e2ef0df62180d5ad37ac8f0260c8ffab/LucidaGrande.ttf?raw=true);
 }
 @font-face {
 	font-family: 'Tahoma';
